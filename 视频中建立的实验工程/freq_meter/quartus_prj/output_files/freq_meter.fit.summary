@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Oct 13 13:38:05 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : freq_meter
+Top-level Entity Name : freq_meter
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 4,963 / 10,320 ( 48 % )
+    Total combinational functions : 4,893 / 10,320 ( 47 % )
+    Dedicated logic registers : 383 / 10,320 ( 4 % )
+Total registers : 383
+Total pins : 8 / 180 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 12 / 46 ( 26 % )
+Total PLLs : 2 / 2 ( 100 % )
