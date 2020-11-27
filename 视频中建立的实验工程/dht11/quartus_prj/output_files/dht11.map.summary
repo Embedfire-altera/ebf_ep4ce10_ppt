@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov 09 16:57:51 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : dht11
+Top-level Entity Name : dht11
+Family : Cyclone IV E
+Total logic elements : 3,124
+    Total combinational functions : 1,387
+    Dedicated logic registers : 2,518
+Total registers : 2518
+Total pins : 8
+Total virtual pins : 0
+Total memory bits : 313,344
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
