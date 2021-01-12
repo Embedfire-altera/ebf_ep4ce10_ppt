@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jan 11 17:07:24 2021
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : i2c_eeprom
+Top-level Entity Name : i2c_eeprom
+Family : Cyclone IV E
+Total logic elements : 573
+    Total combinational functions : 534
+    Dedicated logic registers : 361
+Total registers : 361
+Total pins : 10
+Total virtual pins : 0
+Total memory bits : 2,048
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
